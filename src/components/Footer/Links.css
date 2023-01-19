@@ -1,0 +1,11 @@
+.footerLink {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+  font-size: 14px;
+}
+
+.footerLink:hover {
+  color: #f37335;
+  transition: 0.3s ease-out;
+}
